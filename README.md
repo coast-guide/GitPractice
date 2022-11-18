@@ -1,2 +1,2 @@
 # GitPractice
-- Sk Sahil practicing Git.
+- Sk Sahil practicing Git and Github.
